@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Log Out</name>
+   <tag></tag>
+   <elementGuidId>94e422bc-398e-4f0a-9819-2786d8cfbb06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='mp_main_header']/div/div[2]/ul/li/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.logout-btn > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5cd324e1-4ea7-44be-ae22-eb52287e0bb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://stage.mobipaid.com/user/do_signout</value>
+      <webElementGuid>8613aa8c-65fd-413d-803b-719678592d9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Log Out</value>
+      <webElementGuid>5572c6d0-3481-4868-9fd9-11f09cc3dc33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mp_main_header&quot;)/div[@class=&quot;navbar-header&quot;]/div[@class=&quot;top-nav&quot;]/ul[@class=&quot;nav pull-right top-menu&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu extended logout&quot;]/li[@class=&quot;logout-btn&quot;]/a[1]</value>
+      <webElementGuid>74c8ae29-5666-49d8-ba02-93ca314643bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='mp_main_header']/div/div[2]/ul/li/ul/li/a</value>
+      <webElementGuid>b0fa03af-48f1-45db-b91f-06c396f87ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Log Out')]</value>
+      <webElementGuid>e3e46755-5c53-4d66-a76e-e67fc36ca12f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://stage.mobipaid.com/user/do_signout')]</value>
+      <webElementGuid>cb785909-7b24-4cdd-b740-36ad33c90292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/a</value>
+      <webElementGuid>6188f346-4523-46cd-8c16-2955a7bf805d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://stage.mobipaid.com/user/do_signout' and (text() = ' Log Out' or . = ' Log Out')]</value>
+      <webElementGuid>c1e31e32-cc3a-4f41-a483-615bb73e69f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

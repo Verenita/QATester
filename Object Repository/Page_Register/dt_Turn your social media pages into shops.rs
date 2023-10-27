@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dt_Turn your social media pages into shops</name>
+   <tag></tag>
+   <elementGuidId>81f1778e-d839-4d30-9b0b-494581c172c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='body']/div[2]/div/div/div/div/div/div/div[3]/dl/dt[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>dt</value>
+      <webElementGuid>516ea57f-1af2-48c8-92ae-799ec04eb2b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-title</value>
+      <webElementGuid>089e9621-c5be-40bb-b1f9-fc58f322bf6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Turn your social media pages into shops</value>
+      <webElementGuid>2791223d-b719-4a5b-a9d4-75fc5aa9da8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;register-wrapper&quot;]/div[@class=&quot;register-padding&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-5 col-md-5 register-mobi-left&quot;]/div[@class=&quot;text-center public-desk-color visible-md visible-lg&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/dl[@class=&quot;check-circle-list&quot;]/dt[@class=&quot;list-title&quot;]</value>
+      <webElementGuid>c3d4bc8b-884c-4a82-afe9-c38278f0a87a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body']/div[2]/div/div/div/div/div/div/div[3]/dl/dt[3]</value>
+      <webElementGuid>c237dc72-4697-4cb2-81dd-6f82af42f7f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dt[3]</value>
+      <webElementGuid>47bd970a-12c1-4694-bf28-4d13b532c10d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//dt[(text() = 'Turn your social media pages into shops' or . = 'Turn your social media pages into shops')]</value>
+      <webElementGuid>e868e5e5-22d8-4763-91aa-acacbb78c206</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

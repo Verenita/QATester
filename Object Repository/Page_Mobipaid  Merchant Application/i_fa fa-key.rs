@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fa fa-key</name>
+   <tag></tag>
+   <elementGuidId>4b2c62cd-dad2-4eb8-aa0e-1224aaadd364</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='mp_main_header']/div/div[2]/ul/li/ul/li/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-key</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>465ecff6-0f1a-406b-9794-c94253dfb3fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-key</value>
+      <webElementGuid>bcbc8d05-2d21-4c0f-a72d-39ff3e9f0847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mp_main_header&quot;)/div[@class=&quot;navbar-header&quot;]/div[@class=&quot;top-nav&quot;]/ul[@class=&quot;nav pull-right top-menu&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu extended logout&quot;]/li[@class=&quot;logout-btn&quot;]/a[1]/i[@class=&quot;fa fa-key&quot;]</value>
+      <webElementGuid>72a7bbfa-4717-4505-8f46-6b0162df0501</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='mp_main_header']/div/div[2]/ul/li/ul/li/a/i</value>
+      <webElementGuid>da35ca0f-4009-4dc1-b8c5-5074120cab38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/a/i</value>
+      <webElementGuid>24287efd-e80b-41e3-ba51-e739cb7b4400</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

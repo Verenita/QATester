@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_verenitaberlian97gmail.com</name>
+   <tag></tag>
+   <elementGuidId>d78c2e7c-d64b-4fa3-9f9e-2dbef6af265c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='mp_main_header']/div/div[2]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-toggle.setting-opt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3afc84d3-a2cb-497e-a527-40b810ce3e97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>cf93123c-bc17-48e4-9e62-c9ed16eac385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle setting-opt</value>
+      <webElementGuid>45056ec4-c583-4650-84e7-e49fa5f5fb94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>e3401b09-1205-4a67-8bed-d268105ad5ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                      
+                       verenitaberlian97@gmail.com 
+                    </value>
+      <webElementGuid>3e66db29-2182-4ff4-90e9-50e869b9fee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mp_main_header&quot;)/div[@class=&quot;navbar-header&quot;]/div[@class=&quot;top-nav&quot;]/ul[@class=&quot;nav pull-right top-menu&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-toggle setting-opt&quot;]</value>
+      <webElementGuid>325e2f51-3f24-4552-a04a-161bef380609</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='mp_main_header']/div/div[2]/ul/li/a</value>
+      <webElementGuid>b94d405e-8410-4a59-abed-bbbabef548c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>a2ec0779-0e7a-4d47-8be2-2a206e1414cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>5b3df89f-d1bc-4d95-b450-8155aa071a26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '
+                      
+                       verenitaberlian97@gmail.com 
+                    ' or . = '
+                      
+                       verenitaberlian97@gmail.com 
+                    ')]</value>
+      <webElementGuid>3cf5b606-1d12-426d-b8a2-9149e1ad336b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_verenitaberlian97gmail.com</name>
+   <tag></tag>
+   <elementGuidId>59f7701f-fd06-4c46-930c-ad752e17c3cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='mp_main_header']/div/div[2]/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.username.hide-mob</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c7840c4f-46ec-4543-bc18-40b97e3061eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>username hide-mob</value>
+      <webElementGuid>3ec33636-2c04-4ac0-abad-0b145ef6cd1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> verenitaberlian97@gmail.com </value>
+      <webElementGuid>686f74b5-d6b5-4000-ab86-e5b1f6953b72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mp_main_header&quot;)/div[@class=&quot;navbar-header&quot;]/div[@class=&quot;top-nav&quot;]/ul[@class=&quot;nav pull-right top-menu&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-toggle setting-opt&quot;]/span[@class=&quot;username hide-mob&quot;]</value>
+      <webElementGuid>612d2d94-b1cb-4f1d-b8e7-8b0b366af97b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='mp_main_header']/div/div[2]/ul/li/a/span</value>
+      <webElementGuid>c42306b4-22d4-444c-a837-ba6d8ee32ae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>2bcfd364-3c75-4237-82b5-499066e33288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' verenitaberlian97@gmail.com ' or . = ' verenitaberlian97@gmail.com ')]</value>
+      <webElementGuid>ac6dcfaa-9be2-4687-a281-ebb27c837264</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
